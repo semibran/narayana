@@ -1,0 +1,16 @@
+{
+ "name": "narayana",
+ "version": "0.1.0",
+ "description": "Calculate Narayana numbers",
+ "keywords": ["narayana", "numbers"],
+ "files": ["index.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/semibran/narayana.git"
+ },
+ "dependencies": {
+  "choose": "0.0.0"
+ }
+}
